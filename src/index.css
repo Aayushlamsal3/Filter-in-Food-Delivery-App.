@@ -1,0 +1,20 @@
+.box{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 10px;
+
+}
+
+img{
+  height: 300px;
+}
+
+.new{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.7);
+  width: 350px;
+  padding: 0px;
+};
+
+.card:hover{
+  width: 400px;
+}
