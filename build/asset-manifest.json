@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/First-webhost/static/css/main.20e75350.css",
+    "main.js": "/First-webhost/static/js/main.476e7f3f.js",
+    "static/media/web.jpg": "/First-webhost/static/media/web.e606a66e2a1e9da6eda7.jpg",
+    "static/media/Computer.jpg": "/First-webhost/static/media/Computer.8d475a3dd37bce91f99d.jpg",
+    "index.html": "/First-webhost/index.html",
+    "main.20e75350.css.map": "/First-webhost/static/css/main.20e75350.css.map",
+    "main.476e7f3f.js.map": "/First-webhost/static/js/main.476e7f3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20e75350.css",
+    "static/js/main.476e7f3f.js"
+  ]
+}

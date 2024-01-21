@@ -1,0 +1,2 @@
+.services{display:grid;grid-template-columns:repeat(3,1fr)}.rotating-image{-webkit-animation:tilt .3s;animation:tilt .3s}@-webkit-keyframes tilt{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes tilt{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}
+/*# sourceMappingURL=main.20e75350.css.map*/
