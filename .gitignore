@@ -1,0 +1,60 @@
+import momo from './Images/momo.jpg'
+import pizza from "./Images/pizza.jpg"
+import bread from "./Images/bread.jpg"
+import rice from "./Images/rice.jpg"
+import salad from "./Images/salad.jpg"
+import roll from "./Images/roll.jpg"
+import pancake from "./Images/pancake.jpg"
+import hotdog from "./Images/hotdog.jpg"
+import burger from "./Images/burger.jpg"
+
+const Menu=[
+    {
+        id:"Momo",
+        image:momo,
+        category:"lunch"
+    },
+    {
+        id:"Pizza",
+        image:pizza,
+        category:"dinner"
+    },
+    {
+        id:"Bread & Coffee",
+        image:bread,
+        category:"breakfast"
+    },
+    {
+        id:"Rice and curry",
+        image:rice,
+        category:"dinner"
+    },
+    {
+        id:"Pancake with Honey",
+        image:pancake,
+        category:"breakfast"
+    },
+    {
+        id:"Katti Roll",
+        image:roll,
+        category:"dinner"
+    },
+    {
+        id:"Special Burgers",
+        image:burger,
+        category:"lunch"
+    },
+    {
+        id:"Vegetarian Salad",
+        image:salad,
+        category:"breakfast"
+    },
+    {
+        id:"Hot-Dog",
+        image:hotdog,
+        category:"lunch"
+    }
+
+]
+
+export default Menu;
